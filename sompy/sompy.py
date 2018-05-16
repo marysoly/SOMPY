@@ -35,7 +35,6 @@ from .normalization import NormalizatorFactory
 #from normalization import NormalizatorFactory
 #
 #lbugnon
-import sompy#
 #
 class ComponentNamesError(Exception):
     pass
